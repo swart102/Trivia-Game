@@ -1,0 +1,30 @@
+* {
+    text-align: center;
+    padding: 10px;
+}
+
+.container {
+    background-color: black;
+}
+
+#title {
+    background-color: aquamarine;
+}
+
+#timeRemaining {
+    background-color: darkorchid;
+    margin: auto;
+}
+
+#question {
+    background-color: blanchedalmond;
+    margin: auto;
+
+}
+
+#answers {
+    background-color: aqua;
+    margin: auto;
+    word-spacing: 40px;
+
+}
