@@ -1,11 +1,14 @@
 * {
     text-align: center;
     padding: 10px;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .container {
     background-color: black;
 }
+
+
 
 #title {
     background-color: aquamarine;
@@ -19,12 +22,21 @@
 #question {
     background-color: blanchedalmond;
     margin: auto;
-
+    padding: auto;
+    word-spacing: 10px;
 }
 
 #answers {
     background-color: aqua;
     margin: auto;
-    word-spacing: 40px;
+}
 
+#score {
+    background-color: aqua;
+    margin: auto;
+}
+
+#resultTitle {
+    background-color: aqua;
+    margin: auto;
 }
